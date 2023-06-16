@@ -1,0 +1,33 @@
+{
+  "lavages": [
+    {
+      "lavage": 0,
+      "voiture": 0,
+      "prix": "100",
+      "time": "16/06/2023",
+      "id": 1
+    }
+  ],
+  "types": [
+    {
+      "nom": "Json",
+      "id": 1
+    }
+  ],
+  "categories": [
+    {
+      "type": 0,
+      "designation": "Test",
+      "modele": "V8",
+      "prix": "1000",
+      "id": 1
+    }
+  ],
+  "voitures": [
+    {
+      "plaque": "AT 7878",
+      "modele": "V8",
+      "id": 1
+    }
+  ]
+}
